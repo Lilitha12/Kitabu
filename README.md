@@ -88,7 +88,7 @@ com.stadiolinks.kitabu/
 
 1. Clone the repository:
    ```bash
-   git clone [YOUR-GITHUB-REPO-URL]
+   git clone [https://github.com/Lilitha12/Kitabu]
 
 5. Database Schema
    BookEntity (tableName: "books")
@@ -263,7 +263,6 @@ the Room Flow emits the new data, the ViewModel StateFlow updates and Compose re
     ├── settings.gradle.kts
     ├── libs.versions.toml
     └── README.md
-### Package Structure
 
 15. **References**
         Kotlin Official Documentation: https://kotlinlang.org/docs/
