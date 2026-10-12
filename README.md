@@ -263,6 +263,8 @@ the Room Flow emits the new data, the ViewModel StateFlow updates and Compose re
     ├── settings.gradle.kts
     ├── libs.versions.toml
     └── README.md
+### Package Structure
+
 15. **References**
         Kotlin Official Documentation: https://kotlinlang.org/docs/
         Jetpack Compose: https://developer.android.com/develop/ui/compose
